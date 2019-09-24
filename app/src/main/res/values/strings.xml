@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">ProjetoP1DontPad</string>
-    <string name="botaoTexto_Text">Texto</string>
+    <string name="app_name" translatable="false">ProjetoP1DontPad</string>
+    <string name="botaoTexto_Text">Text</string>
+    <string name="linkEditText_Hint">Insert the link here!</string>
+    <string name="HintTextoTexto">Insert the text or wait for it to be inserted here</string>
     <string name="botaoImagens_Text">Imagens</string>
-    <string name="linkEditText_Hint">Insira o link desejado aqui!</string>
-    <string name="HintTextoTexto">Insira o texto ou aguarde o mesmo ser inserido aqui</string>
 </resources>

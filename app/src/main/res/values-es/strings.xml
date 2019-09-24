@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetoP1DontPad</string>
+    <string name="HintTextoTexto">Ingrese el texto o espere la inserción aquí</string>
+    <string name="botaoTexto_Text">Texto</string>
+    <string name="botaoImagens_Text">Imágenes</string>
+    <string name="linkEditText_Hint">Inserte el enlace aquí!</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetoP1DontPad</string>
+    <string name="HintTextoTexto">ここにテキストを入力するか、挿入を待ちます</string>
+    <string name="botaoImagens_Text">写真</string>
+    <string name="botaoTexto_Text">テキスト</string>
+    <string name="linkEditText_Hint">ここにリンクを挿入してください！</string>
+</resources>
